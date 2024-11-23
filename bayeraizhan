@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ваш Байер из Китая</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            margin: 10px 0 0;
+            font-size: 1.2em;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+            margin-top: 0;
+        }
+        .btn {
+            display: inline-block;
+            text-decoration: none;
+            color: #fff;
+            background-color: #333;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .btn:hover {
+            background-color: #555;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px 0;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ваш Байер из Китая</h1>
+        <p>Помощь в покупке товаров с доставкой</p>
+    </header>
+    <div class="container">
+        <h2>Почему выбирают нас?</h2>
+        <p>
+            Мы помогаем вам заказать товары напрямую из Китая, экономя ваше время и деньги.
+            Работаем с любыми платформами: Taobao, 1688, Alibaba, JD и другими.
+        </p>
+        <ul>
+            <li>Персональный подход</li>
+            <li>Доступ к уникальным предложениям</li>
+            <li>Полное сопровождение заказа</li>
+        </ul>
+
+        <h2>Свяжитесь с нами</h2>
+        <p>
+            Напишите нам в WhatsApp, чтобы обсудить ваш заказ:
+            <br>
+            <a href="https://wa.me/0553848449" class="btn">Написать в WhatsApp</a>
+        </p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Ваш Байер из Китая. Все права защищены.</p>
+    </footer>
+</body>
+</html>
